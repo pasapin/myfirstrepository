@@ -1,2 +1,3 @@
 var myVar='hello';
-alert(myVar);
+var myVarName='Marc';
+alert(myVar+" "+myVarName);
